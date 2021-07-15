@@ -1,0 +1,10 @@
+// keep you global styles here
+
+@import "./custom";
+@import "./mixins";
+
+body {
+  color: $gray-900;  
+}
+
+// this is shared stylesheet

@@ -1,0 +1,11 @@
+// uncomment below line to use bootstrap functions
+// @import "~bootstrap/scss/functions";
+// uncomment below line to use bootstrap variables
+// @import "~bootstrap/scss/variables";
+// uncomment below line to use bootstrap mixins
+// @import "~bootstrap/scss/mixins";
+
+// custom mixins
+@mixin fontSizeMixin {
+  $font-size-base: 1rem;
+}

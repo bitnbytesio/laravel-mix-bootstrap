@@ -1,0 +1,40 @@
+{
+  "name": "laravel-mix-bootstrap",
+  "version": "1.0.0",
+  "description": "laravel-mix setup for bootstrap",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "compile": "npx mix",
+    "watch": "npx mix watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitnbytesio/laravel-mix-bootstrap.git"
+  },
+  "keywords": [
+    "laravel-mix",
+    "bootstrap",
+    "fontawesome",
+    "boilerplate",
+    "webpack",
+    "bundler"
+  ],
+  "author": "Harcharan Singh <bitnbytesio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitnbytesio/laravel-mix-bootstrap/issues"
+  },
+  "homepage": "https://github.com/bitnbytesio/laravel-mix-bootstrap#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "laravel-mix": "^6.0.25",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0"
+  }
+}

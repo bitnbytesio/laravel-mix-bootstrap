@@ -1,5 +1,7 @@
 # laravel-mix-bootstrap
 
+DEVELOP FRONTEND LIKE A PRO :sunglasses:
+
 This is boilerplate, setup laravel-mix for bootstrap includes auto-complie and refresh funcationality.
 
 ## Commands
